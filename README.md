@@ -39,10 +39,9 @@ In this stage, the following tasks were completed:
 
 ## Machine Learning Workflow
 The machine learning part of the project involved:
-1. **Model Selection:** Evaluated several classifiers including Decision Trees, Random Forests, and Gradient Boosting.
-2. **Hyperparameter Tuning:** Used GridSearchCV to optimize model parameters.
-3. **Model Evaluation:** Compared models based on accuracy, precision, and recall.
-4. **Final Model:** Selected the best-performing model for deployment.
+- **Feature Engineering:** Filtered and fitted the data to fit the desired format and to help achieve optimal classification results.
+- **Model Selection:** Evaluated several classifiers including KNN and Logistic Regression.
+- **Manual Implementation:** As part of the project, manual implementation from scratch of ML models and avoiding problems such as long classification time, integer overflow etc..
 
 ## Dependencies
 The project uses the following Python libraries:
@@ -59,7 +58,7 @@ The project uses the following Python libraries:
    ```
 2. Navigate to the project directory:
    ```bash
-   cd spaceship-titanic-ml
+   cd Spaceship_Titanic_ML_Project
    ```
 3. Open the Jupyter Notebook:
    ```bash
