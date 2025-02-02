@@ -55,7 +55,7 @@ The project uses the following Python libraries:
 ## How to Run
 1. Clone this repository:
    ```bash
-   git clone [<repository-url>](https://github.com/Horizon-Sunshine/Spaceship_Titanic_ML_Project)
+   git clone https://github.com/Horizon-Sunshine/Spaceship_Titanic_ML_Project
    ```
 2. Navigate to the project directory:
    ```bash
